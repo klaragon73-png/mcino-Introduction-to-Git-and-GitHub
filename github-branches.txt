@@ -1,0 +1,4 @@
+theia@theia-klaragon73:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert bb1a1ac [origin/bug-fix-revert] Revert "Changed date on footer if README.md from 2022 to 2023"
+  bug-fix-typo   f644146 [origin/bug-fix-typo] Changed date on footer if README.md from 2022 to 2023
+  main           3739d29 [origin/main] Merge branch 'main' of https://github.com/klaragon73-png/mcino-Introduction-to-Git-and-GitHub Changed footer date of README from 2022 to 2023
